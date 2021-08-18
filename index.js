@@ -39,7 +39,7 @@ Client.on('message', function (message) {
 
     // Commande v!news
     if (message.content === prefix + 'news') {
-        message.reply('**Voilà Pour toi les Nouveautés de Valorant :**\n**https://playvalorant.com/fr-fr/news/game-updates/valorant-patch-notes-2-08/, https://www.youtube.com/watch?v=JJHseNjeRyc**')
+        message.reply('**Voilà Pour toi les Nouveautés de Valorant :**\n**https://playvalorant.com/fr-fr/news/game-updates/valorant-patch-notes-3-03/, https://playvalorant.com/fr-fr/news/announcements/valorant-give-back-bundle-charity-results/**')
     }
 
     if (message.content === prefix + 'qui joue ?') {
